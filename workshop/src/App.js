@@ -1,6 +1,9 @@
 import React from 'react';
 import Input from './components/input';
 import Button from './components/Button';
+import Logo from './assets/logo.svg'
+
+
 function App() {
   return (
     <div className="flex min-h-screen w-full items-center justify-center">
